@@ -1,0 +1,14 @@
+# 端口
+server:
+  port: 10000
+spring:
+  application:
+    name: blog_eureka
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    register-with-eureka: false  #表明单个服务注册
+    fetch-registry: false #不注册自己
+    service-url:
+      defaultZone:  http://${eureka.instance.hostname}:${server.port}/eureka/
