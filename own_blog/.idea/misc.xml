@@ -9,6 +9,11 @@
         <option value="$PROJECT_DIR$/blog_admin/pom.xml" />
         <option value="$PROJECT_DIR$/blog_xo/pom.xml" />
         <option value="$PROJECT_DIR$/blog_config/pom.xml" />
+        <option value="$PROJECT_DIR$/blog_picture/pom.xml" />
+        <option value="$PROJECT_DIR$/blog_sms/pom.xml" />
+        <option value="$PROJECT_DIR$/blog_web/pom.xml" />
+        <option value="$PROJECT_DIR$/blog_utils/pom.xml" />
+        <option value="$PROJECT_DIR$/blog_base/pom.xml" />
       </list>
     </option>
   </component>

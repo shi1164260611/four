@@ -18,8 +18,13 @@
     <modules>
         <module>blog_eureka</module>
         <module>blog_admin</module>
-        <module>blog_admin</module>
         <module>blog_xo</module>
+        <module>blog_base</module>
+        <module>blog_sms</module>
+        <module>blog_config</module>
+        <module>blog_picture</module>
+        <module>blog_utils</module>
+        <module>blog_web</module>
     </modules>
 
 

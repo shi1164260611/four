@@ -7,8 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="blog_admin" />
+        <module name="blog_base" />
         <module name="blog_config" />
         <module name="blog_eureka" />
+        <module name="blog_picture" />
+        <module name="blog_sms" />
+        <module name="blog_utils" />
+        <module name="blog_web" />
         <module name="blog_xo" />
       </profile>
     </annotationProcessing>
@@ -16,8 +21,13 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="blog_admin" options="-parameters" />
+      <module name="blog_base" options="-parameters" />
       <module name="blog_config" options="-parameters" />
       <module name="blog_eureka" options="-parameters" />
+      <module name="blog_picture" options="-parameters" />
+      <module name="blog_sms" options="-parameters" />
+      <module name="blog_utils" options="-parameters" />
+      <module name="blog_web" options="-parameters" />
       <module name="blog_xo" options="-parameters" />
     </option>
   </component>
