@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+  <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/blog_admin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/blog_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/controller" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/entity" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/enums" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/exception" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/global" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/handler" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/helper" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/jedis" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/mapper" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/service" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/serviceImpl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/validator" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_base/src/main/java/com/qf/vo" charset="GBK" />
     <file url="file://$PROJECT_DIR$/blog_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog_config/src/main/java/com/qf/durid" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_config/src/main/java/com/qf/jwt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_config/src/main/java/com/qf/mybatis" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_config/src/main/java/com/qf/redis" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_config/src/main/java/com/qf/security" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/blog_config/src/main/java/com/qf/solr" charset="GBK" />
     <file url="file://$PROJECT_DIR$/blog_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/blog_eureka/src/main/java/com/qf/BlogEurekaApplication.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/blog_eureka/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/blog_picture" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/blog_sms" charset="UTF-8" />

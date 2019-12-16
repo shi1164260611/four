@@ -1,14 +1,19 @@
-# 端口
 server:
-  port: 10000
+  port: 8761
+security:
+  basic:
+    enabled: true
+  user:
+    name: user
+    password: password123
+
 spring:
-  application:
-    name: blog_eureka
+  jmx:
+    default-domain: mogu_eureka
+
 eureka:
-  instance:
-    hostname: localhost
   client:
-    register-with-eureka: false  #表明单个服务注册
-    fetch-registry: false #不注册自己
+    register-with-eureka: false
+    fetch-registry: false
     service-url:
-      defaultZone:  http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://user:password123@localhost:8761/eureka
